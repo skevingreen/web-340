@@ -39,7 +39,4 @@ class GameCharacters {
   }
 }
 
-// let gc = new GameCharacters();
-// gc.getCharacters();
-
 module.exports = { GameCharacters };

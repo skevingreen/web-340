@@ -14,8 +14,4 @@ let characters = [
   {class:"Rogue", gender:"Female", funFact:"only wears plaid"}
 ];
 
-// characters.forEach((hero) => {
-//   console.log(hero);
-// })
-
 console.log(JSON.stringify(characters));
